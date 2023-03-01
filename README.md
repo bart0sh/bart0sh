@@ -1,4 +1,7 @@
-- Senior Cloud Engineer at [Intel](https://intel.com)
+## Hi everyone 👋
+
+I'm a  Senior Cloud Engineer at [Intel](https://intel.com) working on Kubernetes
+
 - [Kubernetes](https://github.com/kubernetes/kubernetes) contributor and reviewer
 - [CDI](https://github.com/container-orchestrated-devices/container-device-interface) maintainer
 - [Intel Device Plugins for Kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes) maintainer
