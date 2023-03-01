@@ -1,5 +1,3 @@
-## Ed Bartosh
-
 - Senior Cloud Engineer at [Intel](https://intel.com)
 - [Kubernetes](https://github.com/kubernetes/kubernetes) contributor and reviewer
 - [CDI](https://github.com/container-orchestrated-devices/container-device-interface) maintainer
